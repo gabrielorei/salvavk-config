@@ -4,6 +4,6 @@
   "ppvApi":    ["https://api.ppv.st"],
   "ppvSite":   ["https://ppv.st"],
   "rdcApi":    ["https://api.reidoscanais.my", "https://api.reidoscanais.cam"],
-  "rdcSite":   ["https://reidoscanais.cam"],
-  "rdcAgenda": ["https://reidoscanais.si/agenda"]
+  "rdcSite":   ["https://reidoscanais.im"],
+  "rdcAgenda": ["https://reidoscanais.im/agenda"]
 }
