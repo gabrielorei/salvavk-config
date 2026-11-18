@@ -3,7 +3,7 @@
   "futnatv":   ["https://futnatv.net"],
   "ppvApi":    ["https://api.ppv.st"],
   "ppvSite":   ["https://ppv.st"],
-  "rdcApi":    ["https://api.reidoscanais.my", "https://api.reidoscanais.cam"],
+  "rdcApi":    ["https://api.reidoscanais.im", "https://api.reidoscanais.my", "https://api.reidoscanais.cam"],
   "rdcSite":   ["https://reidoscanais.im"],
   "rdcAgenda": ["https://reidoscanais.im/agenda"]
 }
